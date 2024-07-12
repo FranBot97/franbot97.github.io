@@ -1,5 +1,4 @@
 html, body{
-    padding-top:5%;
     height:100%;
     background-color:#efefed;
     margin:0px;
@@ -19,7 +18,7 @@ div {
     padding:1em 5em 1em 5em;
    background-color: white; 
    border-radius: 10px;
-   min-height: 200px;
+   height: 100%;
    max-width:50%;
    margin: 0 auto;
    margin-top: 10%;
@@ -29,7 +28,6 @@ p.big-titles {
     font-size:20px;
     margin-bottom:1em;
     font-weight: 400;
-    color:white;
 }
 
 p.medium-titles {
