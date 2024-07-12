@@ -14,13 +14,20 @@ html, body{
     margin: 0; /* Remove default margin */
 }
 
-div {
+div .menu{
+    padding:2em 7em 2em 7em;
+    background-color:#efefed;
+   height: auto;
+   width:20%;
+   min-width: 200px;
+}
+
+div .main{
     padding:2em 7em 2em 7em;
     background-color:#efefed;
    height: 100%;
    max-width:50%;
    margin: 0 auto;
-   margin-top: 10%;
 }
 
 p.big-titles {
