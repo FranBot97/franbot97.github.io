@@ -15,9 +15,8 @@ html, body{
 }
 
 div {
-    padding:1em 5em 1em 5em;
-   background-color: white; 
-   border-radius: 10px;
+    padding:2em 7em 2em 7em;
+    background-color:#efefed;
    height: 100%;
    max-width:50%;
    margin: 0 auto;
