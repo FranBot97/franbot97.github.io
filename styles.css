@@ -4,6 +4,7 @@ html, body{
 }
 
 div {
+    padding:1em;
    background-color: white; 
    border-radius: 10px;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
