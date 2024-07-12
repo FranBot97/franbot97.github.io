@@ -7,6 +7,12 @@ html, body{
     color: #494949;
     font-size: 12px;
     background-image: url(images/background-main.png);
+    background-size: cover; /* Make the background image cover the entire height */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Prevent the background image from repeating */
+    background-attachment: fixed; /* Keep the background image fixed when scrolling */
+    height: 100vh; /* Ensure the body takes up the full viewport height */
+    margin: 0; /* Remove default margin */
 }
 
 div {
